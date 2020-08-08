@@ -1,0 +1,30 @@
+body {
+    background: #EDD2E0;
+    text-align: left;
+    margin-top: 50px;
+    margin-left: 50px;
+    max-width: 900px;
+}
+
+
+footer {
+    color: #6b6b6b;
+    font-size: x-small;
+}
+
+.main-header {
+    color: #4D4730;
+}
+
+.section-intro {
+    color: #4B6858;
+}
+
+.section-notes {
+    color: #498C8A;
+}
+
+a {
+    color: #1E2F23;
+    font-style: inherit;
+}
